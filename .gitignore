@@ -5,6 +5,7 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+.idea/
 .apt_generated
 .classpath
 .factorypath
@@ -17,6 +18,7 @@ bin/
 !**/src/test/**/bin/
 
 ### NetBeans ###
+.idea/
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -24,6 +26,7 @@ bin/
 /.nb-gradle/
 
 ### VS Code ###
+.idea/
 .vscode/
 
 ### Mac OS ###
